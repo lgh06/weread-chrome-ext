@@ -1,14 +1,14 @@
 {
   "name": "WeRead Chrome extension",
   "description" : "un-official weread.qq.com enhancer",
-  "version": "1.0",
+  "version": "0.0.1",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
   },
   "permissions": ["activeTab"],
   "browser_action": {
-    "default_icon": "icon.png"
+    "default_icon": "icon.jpg"
   },
   "manifest_version": 2,
   "commands": {
