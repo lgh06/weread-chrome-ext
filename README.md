@@ -4,8 +4,11 @@ an un-official [weread.qq.com](https://weread.qq.com) enhancer script.
 1. font size bigger.  
 1. header not floating any more.   
 
-# installation
+# Installation
+## Way 1  
 Open Chrome -> Menu -> More tools -> Extensions -> developer mode -> load unpacked extension -> select this source code directory  
+## Way 2  
+https://chrome.google.com/webstore/detail/weread-chrome-extension/ckbiiidcgjkkioohejfijojdoodlnbea
 
 # Usage  
 on ```weread.qq.com/web/reader/*``` ,  
